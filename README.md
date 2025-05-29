@@ -55,6 +55,18 @@ Let’s CoCreate helps curious individuals — especially from underrepresented 
 - No-code/AI tools for prototyping: Typedream, Replit + AI Copilot
 
 
+## 👥 Team
+
+| Name            | Role                                 | Bio |
+|-----------------|--------------------------------------|-----|
+| **Dayane Gonçalves** ([@criptada](https://x.com/criptada)) | Program Lead             | Creator of Criptada, Web3 educator and community builder in Brazil. Led the first experimental cohort of Let’s CoCreate and produced educational content for platforms like YouTube, Instagram, and newsletters. |
+| **Benjamin Sampaio** | Co-Creation Strategist             | Builder and researcher in Web3 and digital communities. Supports project ideation, product framing, and facilitates co-creation workshops. |
+| **Felipe Silva** | Content & Comms (Social / Newsletter) | Manages communications and community updates across platforms. Helps shape the public narrative and engagement strategy. |
+| **Enzo Luiz** | Designer | Visual designer and UX collaborator responsible for the visual identity of Let’s CoCreate and the development of the landing page prototype and course interface. |
+
+*Let’s CoCreate also collaborates with a growing network of guest mentors and local organizers across Brazil and LatAm.*
+
+
 
 ## 💬 Contact
 
