@@ -70,6 +70,6 @@ Let’s CoCreate helps curious individuals — especially from underrepresented 
 
 ## 💬 Contact
 
-Website: [letscocreate.com.br](https://letscocreate.com.br) *(coming soon)*  
+Website: [letscocreate.com.br](https://letscocreate.com.br) 
 Email: dayane@letscocreate.com.br
 
