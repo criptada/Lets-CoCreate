@@ -41,8 +41,8 @@ Let’s CoCreate helps curious individuals — especially from underrepresented 
 
 | Milestone | Date | Status |
 |-----------|------|--------|
-| Repo setup & curriculum outline | June 2025 | 🔄 In progress |
-| Cohort launch | July 2025 | ⏳ Upcoming |
+| Repo setup & curriculum outline | June 2025 | ✅ Completed |
+| Cohort launch | July 2025 | ✅ Completed |
 | Public GitBook published | August 2025 | ⏳ Upcoming |
 | Final report & open feedback | September 2025 | ⏳ Upcoming |
 
